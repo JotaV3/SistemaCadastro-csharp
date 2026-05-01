@@ -1,0 +1,10 @@
+D:\Jv\Cursos\Udemy\C#\SistemaCadastro\SistemaCadastro\bin\Debug\SistemaCadastro.exe.config
+D:\Jv\Cursos\Udemy\C#\SistemaCadastro\SistemaCadastro\bin\Debug\SistemaCadastro.exe
+D:\Jv\Cursos\Udemy\C#\SistemaCadastro\SistemaCadastro\bin\Debug\SistemaCadastro.pdb
+D:\Jv\Cursos\Udemy\C#\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.AssemblyReference.cache
+D:\Jv\Cursos\Udemy\C#\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.Properties.Resources.resources
+D:\Jv\Cursos\Udemy\C#\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.GenerateResource.cache
+D:\Jv\Cursos\Udemy\C#\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.CoreCompileInputs.cache
+D:\Jv\Cursos\Udemy\C#\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.exe
+D:\Jv\Cursos\Udemy\C#\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.pdb
+D:\Jv\Cursos\Udemy\C#\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.RegisterForm.resources
